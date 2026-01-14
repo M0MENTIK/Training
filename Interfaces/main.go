@@ -95,4 +95,10 @@ func main() {
 	//Task 6
 	Process(&File{}, "TestText")
 	fmt.Println()
+
+	//
+	fmt.Println()
+	fmt.Println("-----------------TASK 7-------------------")
+	//Task 7
+
 }
