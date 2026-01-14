@@ -14,7 +14,7 @@ func main() {
 	var fart Speaker
 	fart = Dog{}
 	fart.Speak()
-
+	fmt.Println()
 	//
 
 	fmt.Println()
